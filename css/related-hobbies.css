@@ -1,0 +1,63 @@
+.row1 {
+    margin-top: 150px !important;
+    margin-bottom: 50px;
+}
+.row {
+    margin-top: 50px;
+}
+.last {
+    margin-bottom: 150px;
+}
+.photo {
+    height: 400px;
+}
+h1 {
+    font-family: lao;
+    font-size: 50px;
+    margin-top: 150px;
+}
+.photo1 {
+    height: 350px;
+}
+.photo2 {
+    height: 350px;
+}
+.backgroundcolor {
+    background-color: #B18667;
+}
+h2 {
+    font-family: lao;
+    font-size: 35px;
+    margin-top: 70px;
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.p {
+    color: white;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+h3 {
+    font-family: lao;
+    font-size: 35px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.p1 {
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.row2 {
+    border: 1px solid black;
+}
+.row3 img {
+    margin-left: -15px;
+}
+.row5 img {
+    margin-left: -25px;
+}
+.container {
+    margin-top: 100px;
+}

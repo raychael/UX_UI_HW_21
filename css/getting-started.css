@@ -1,0 +1,27 @@
+.row1 {
+    margin-top: 100px !important;
+}
+.row {
+    margin-top: 50px;
+}
+.card {
+    border-color: #E6D8C0 !important;
+}
+.card-title {
+    margin-top: -10px;
+    margin-left: -10px;
+    font-size: 18px !important;
+    font-family: lao;
+}
+.card-text {
+    font-size: 16px !important;
+    font-family: lao;
+    margin-top: -5px;
+}
+.transparent {
+background: rgba(0,0,0,0.3);
+height: 110px
+}
+.last {
+    margin-bottom: 150px;
+}

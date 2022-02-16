@@ -1,0 +1,45 @@
+
+body {
+    background-color: #E6D8C0;
+}
+.logo {
+    height: 100px;
+}
+.icons {
+    height: 50px;
+}
+.footer {
+    background-color: #7E311B;
+}
+.footer p {
+    color: #E6D8C0;
+    display: inline-block;
+    font-family: lao !important;
+    margin-left: 50px;
+}
+.footer {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
+.logofont {
+    font-size: 25px;
+    margin-left: 35px;
+}
+.logotop {
+    height: 130px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.nav-link {
+    color: #E6D8C0 !important;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: lao;
+}
+.nav {
+    height: 75px;
+}
