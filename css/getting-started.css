@@ -12,11 +12,13 @@
     margin-left: -10px;
     font-size: 18px !important;
     font-family: lao;
+    color: white;
 }
 .card-text {
     font-size: 16px !important;
-    font-family: lao;
+    font-family: 'open sans' condensed;;
     margin-top: -5px;
+    color: white;
 }
 .transparent {
 background: rgba(0,0,0,0.3);

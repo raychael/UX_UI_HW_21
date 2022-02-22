@@ -23,7 +23,7 @@ h1 {
     height: 350px;
 }
 .backgroundcolor {
-    background-color: #B18667;
+    background-color: #7E311B;
 }
 h2 {
     font-family: lao;
@@ -37,27 +37,11 @@ h2 {
     color: white;
     margin-left: 50px;
     margin-right: 20px;
-}
-h3 {
-    font-family: lao;
-    font-size: 35px;
-    margin-top: 70px;
-    margin-bottom: 20px;
-    margin-left: 10px;
-}
-.p1 {
-    margin-left: 50px;
-    margin-right: 20px;
+    font-family: 'open sans' condensed;
 }
 .row2 {
     border: 1px solid black;
 }
 .row3 img {
     margin-left: -15px;
-}
-.row5 img {
-    margin-left: -25px;
-}
-.container {
-    margin-top: 100px;
 }
